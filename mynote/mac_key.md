@@ -27,3 +27,16 @@
 
 - 设置打开程序  
 `右键--显示简介--打开方式`
+- 打开多个访达窗口
+`右键点击 访达 图标--新建窗口`
+
+## 常用软件
+
+ftp: filezilla
+https://filezilla-project.org/download.php?type=client#close
+
+## numbers
+
+复制行格式的快捷键是：`option+command+c`
+粘贴行格式的快捷键是：`option+command+v`
+增加行或列：`option+方向键`

@@ -10,9 +10,8 @@ email:13928849498@139.com
 
 ## configure username and email
 ```bash
-git config --global uesr.name "Sunnshino"
-
-git config --global user.eamil "1940694428@qq.com"
+git config --global uesr.name "ebinhua"
+git config --global user.eamil "13928849498@139.com"
 ```
 
 
